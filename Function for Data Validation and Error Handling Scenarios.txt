@@ -1,5 +1,4 @@
-SCALA CANDIDATE VALIDATION – COMPLETE OUTPUTS AND EXPLANATIONS
-
+SCALA CANDIDATE VALIDATION
 1. CREATING THE CANDIDATE CASE CLASS
 
 Code:
@@ -278,4 +277,4 @@ getPassingCandidates:
 Returns only passing candidates as List[(String, Int)]. Failed and missing-score candidates are excluded.
 
 validateCandidate:
-Returns a result for every candidate as Either[String, Int]. Passing candidates produce Right; failed or missing-score candidates produce Left.
+Returns a result for every candidate as Either[String, Int]. Passing candidates produce Right; failed or missing-score candidates produce Left
