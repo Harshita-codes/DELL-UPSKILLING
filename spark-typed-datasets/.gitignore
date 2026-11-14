@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# SBT and Scala build outputs
+target/
+project/target/
+project/project/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
